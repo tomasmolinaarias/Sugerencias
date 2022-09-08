@@ -1,1 +1,6 @@
-# sitio : https://tomasmolinaarias.github.io/sugerencias/
+# sugerencias
+
+para este sitio use las tecnologias :
+
+- HTML/CSS
+- JavaScript
